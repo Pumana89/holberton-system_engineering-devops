@@ -1,0 +1,4 @@
+#!/bin/bash
+-l
+/sbin
+ls -la
