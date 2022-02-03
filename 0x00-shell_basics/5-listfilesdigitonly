@@ -1,4 +1,4 @@
 #!/bin/bash
 -l
-/sbin
+./5
 ls -la
