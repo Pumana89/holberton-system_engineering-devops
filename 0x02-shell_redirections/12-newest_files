@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr grep │ head
+ls -lrt │ head
