@@ -1,2 +1,2 @@
-#!/bin/bashh
-find ./ -empty -printf '%f\n'
+#!/bin/bash
+find -empty | rev | cut -d'/' -f1 | rev
